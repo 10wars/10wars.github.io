@@ -9,11 +9,24 @@
 	<BODY>
 		<div id="familytree" class="familytree"></div>
 		
-		<script>
-			
-			
-			
-		</script>	
+<script>
+
+$(document).ready(function(){
+
+$.ajax({
+      url: '/index.csv',
+      type: 'GET',
+      contentType: 'text/csv',
+      context: this,
+      success: function(response) {
+            // Here is my response. Now, I want it in a single file.
+      }
+}).done(function(resp){
+	console.log("RESP",resp)
+});
+
+});
+</script>	
 		
 	</BODY>
 
