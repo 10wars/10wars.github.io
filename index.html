@@ -27,6 +27,7 @@ function csvJSON(csv){
   //return JSON.stringify(result); //JSON
 }
 $(document).ready(function(){
+	var globalData = {};
 $.ajax({
       url: '/index.csv',
       type: 'GET',
@@ -42,15 +43,23 @@ $.ajax({
             nodeBinding: {
                 field_0: "name"
             },
-            nodes: familyData.map(function(row){
+            nodes: familyData.map(function(row,index){  
+		globalData[row.ID] = index;  
 	    	return {
-			id : row.ID,
-			name : (row['Full name'] || row['ID']) + (row['Nickname'] ? ` (${row['Nickname']})` : ''),
-			gender : (row.Gender || '').toLowerCase(),	
-			pids : [row['Partner ID']],
-			mid : row['Mother ID'],
-			fid : row['Father ID']	
+			id : index,
+			indexID : row.ID,
+			name : (row['Full name'] || row.ID) + (row['Nickname'] ? ` (${row['Nickname']})` : ''),
+			gender : (row.Gender || '').toLowerCase(),
+			partnerId : row['Partner ID'],
+			motherId : row['Mother ID'],
+			fatherId : row['Father ID']
 		}
+	    }).map(function(row,index){
+	    	return Object.assign({},row,{
+			pids : [globalData[row.partnerId]],
+			mid : globalData[row.motherId],
+			fid : globalData[row.fatherId],
+		});
 	    })
         });
 });
