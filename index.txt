@@ -1,0 +1,612 @@
+My Family
+
+Plain text downloaded by Lalit Tanwar on 13 May 2023.
+
+This file should be viewed as Unicode (UTF-8) character encoding.
+
+Created by Family Echo - http://www.familyecho.com/
+
+----------------------------------------------------------------------------
+
+Full name:          AKERA
+Gender:             Male (deceased)
+Mother:             Mother Sikhriwaal
+Father:             Father Sikriwal
+
+----------------------------------------------------------------------------
+
+Full name:          ANAYA
+Gender:             Female
+Mother:             POOJA
+Father:             SUMIT
+
+----------------------------------------------------------------------------
+
+Full name:          ANBHA
+Gender:             Female (deceased)
+Partner:            CHITRU
+
+----------------------------------------------------------------------------
+
+Full name:          ANIL "ANITA"
+Gender:             Female
+Mother:             RAM KARAN
+Father:             KAILASH
+
+----------------------------------------------------------------------------
+
+Full name:          ANSHU
+Gender:             Female
+Father:             VIKAS "SUSU"
+
+----------------------------------------------------------------------------
+
+Full name:          ASHA
+Gender:             Male
+Father:             ASHA PAPA
+
+----------------------------------------------------------------------------
+
+Full name:          AVINASH "SHINTU"
+Gender:             Male (deceased)
+Mother:             BIRMA
+
+----------------------------------------------------------------------------
+
+Full name:          BADAN
+Gender:             Male
+Father:             FATHER LALCHAND
+
+----------------------------------------------------------------------------
+
+Full name:          BALWINDER
+Gender:             Male
+Mother:             NARMADA
+Father:             CHIRANJEE LAL
+Partner:            Rakhi
+
+----------------------------------------------------------------------------
+
+Full name:          BATTU
+Gender:             Male
+Father:             FATHER LAKHU
+
+----------------------------------------------------------------------------
+
+Full name:          BHARAT
+Gender:             Male
+Mother:             NARMADA
+Father:             CHIRANJEE LAL
+Partner:            NEETU
+
+----------------------------------------------------------------------------
+
+Full name:          BHIWADI
+Gender:             Male (deceased)
+Mother:             Mother Sikhriwaal
+Father:             Father Sikriwal
+
+----------------------------------------------------------------------------
+
+Full name:          BHOOLEY
+Gender:             Male
+Father:             FATHER GHEESA
+
+----------------------------------------------------------------------------
+
+Full name:          BIMLA
+Gender:             Female
+Mother:             PHOOLVATI
+Father:             MAMCHAND
+
+----------------------------------------------------------------------------
+
+Full name:          BIRMA
+Gender:             Female
+Mother:             PHOOLVATI
+Father:             MAMCHAND
+
+----------------------------------------------------------------------------
+
+Full name:          BISU
+Gender:             Male
+Father:             GABDU
+
+----------------------------------------------------------------------------
+
+Full name:          BODI
+Gender:             Male
+Father:             GABDU
+
+----------------------------------------------------------------------------
+
+Full name:          CHANDAR
+Gender:             Male (deceased)
+Mother:             CHITRU
+Father:             ANBHA
+
+----------------------------------------------------------------------------
+
+Full name:          CHITRU
+Gender:             Male (deceased)
+Father:             DHEEGLA
+Partner:            ANBHA
+
+----------------------------------------------------------------------------
+
+Full name:          DEEPCHAND
+Gender:             Male (deceased)
+Mother:             CHITRU
+Father:             ANBHA
+
+----------------------------------------------------------------------------
+
+Full name:          DHEEGLA
+Gender:             Male (deceased)
+Mother:             D0S2X
+
+----------------------------------------------------------------------------
+
+Full name:          Folly
+Gender:             Male
+Mother:             GULKANDI
+Father:             MOOLCHAND
+
+----------------------------------------------------------------------------
+
+Full name:          GABDU
+Gender:             Male (deceased)
+Father:             DADA BISU
+
+----------------------------------------------------------------------------
+
+Full name:          GHATAL
+Gender:             Male (deceased)
+Mother:             Mother Sikhriwaal
+Father:             Father Sikriwal
+
+----------------------------------------------------------------------------
+
+Full name:          GHEESA
+Gender:             Male
+Father:             FATHER GHEESA
+
+----------------------------------------------------------------------------
+
+Full name:          GULKANDI
+Gender:             Female
+Late partner:       MOOLCHAND
+
+----------------------------------------------------------------------------
+
+Full name:          HARISINGH
+Gender:             Male
+Father:             GABDU
+
+----------------------------------------------------------------------------
+
+Full name:          JAGDEESH
+Gender:             Male (deceased)
+Father:             DEEPCHAND
+Partner:            LAJJA
+
+----------------------------------------------------------------------------
+
+Full name:          JAGPARVESH "Johny"
+Gender:             Male
+Mother:             RAM KARAN
+Father:             KAILASH
+
+----------------------------------------------------------------------------
+
+Full name:          JOHNY
+Gender:             Male
+Mother:             SUNITA
+
+----------------------------------------------------------------------------
+
+Full name:          JYOTI
+Gender:             Female
+Mother:             Sundar Bala
+Father:             KANHIYA LAL
+Partner:            Rahul
+Birth date:         4 Oct 1988
+
+----------------------------------------------------------------------------
+
+Full name:          KAILASH
+Gender:             Female
+
+----------------------------------------------------------------------------
+
+Full name:          KAVITA
+Gender:             Female
+Mother:             RAM KARAN
+Father:             KAILASH
+
+----------------------------------------------------------------------------
+
+Full name:          KOKKI
+Gender:             Female
+Mother:             Meera
+Father:             VIKRANT
+
+----------------------------------------------------------------------------
+
+Full name:          LAJJA
+Gender:             Female
+Late partner:       JAGDEESH
+
+----------------------------------------------------------------------------
+
+Full name:          LAKHU
+Gender:             Male
+Father:             FATHER LAKHU
+
+----------------------------------------------------------------------------
+
+Full name:          LAKKHI
+Gender:             Male
+Father:             MAMRAJ
+
+----------------------------------------------------------------------------
+
+Full name:          LALA
+Gender:             Male
+Father:             GABDU
+
+----------------------------------------------------------------------------
+
+Full name:          LALCHAND
+Gender:             Male
+Father:             FATHER LALCHAND
+
+----------------------------------------------------------------------------
+
+Full name:          MAMCHAND
+Gender:             Male
+Mother:             CHITRU
+Father:             ANBHA
+Partner:            PHOOLVATI
+
+----------------------------------------------------------------------------
+
+Full name:          MAMRAJ
+Gender:             Male (deceased)
+Father:             DADA BISU
+
+----------------------------------------------------------------------------
+
+Full name:          MANGAT
+Gender:             Male
+Father:             MANGAT PAPA
+
+----------------------------------------------------------------------------
+
+Full name:          Meera
+Gender:             Female
+Partner:            VIKRANT
+
+----------------------------------------------------------------------------
+
+Full name:          MOOLCHAND
+Gender:             Male (deceased)
+Mother:             CHITRU
+Father:             ANBHA
+Partner:            GULKANDI
+
+----------------------------------------------------------------------------
+
+Full name:          NARMADA
+Gender:             Female
+Partner:            CHIRANJEE LAL
+
+----------------------------------------------------------------------------
+
+Full name:          NEETU
+Gender:             Female
+Partner:            BHARAT
+
+----------------------------------------------------------------------------
+
+Full name:          NETRAM
+Gender:             Male
+Father:             GABDU
+
+----------------------------------------------------------------------------
+
+Full name:          NITESH "NEETU"
+Gender:             Male
+Mother:             RAM KARAN
+Father:             KAILASH
+
+----------------------------------------------------------------------------
+
+Full name:          Parul
+Gender:             Female
+Partner:            LALIT "TONY" TANWAR
+
+----------------------------------------------------------------------------
+
+Full name:          PHOOLVATI
+Gender:             Female
+Partner:            MAMCHAND
+
+----------------------------------------------------------------------------
+
+Full name:          POOJA
+Gender:             Female
+Mother:             Sundar Bala
+Father:             KANHIYA LAL
+Partner:            SUMIT
+Birth date:         28 Feb 1985
+
+----------------------------------------------------------------------------
+
+Full name:          PREM
+Gender:             Male
+Father:             GABDU
+
+----------------------------------------------------------------------------
+
+Full name:          RADHE
+Gender:             Male (deceased)
+Father:             MOOLCHAND
+
+----------------------------------------------------------------------------
+
+Full name:          Rahul
+Gender:             Male
+Partner:            JYOTI
+
+----------------------------------------------------------------------------
+
+Full name:          RAJENDRA
+Gender:             Male
+Mother:             RAM PYARI
+
+----------------------------------------------------------------------------
+
+Full name:          RAJJO
+Gender:             Female (deceased)
+Mother:             PHOOLVATI
+Father:             MAMCHAND
+
+----------------------------------------------------------------------------
+
+Full name:          RAJPAL
+Gender:             Male (deceased)
+Mother:             PHOOLVATI
+Father:             MAMCHAND
+
+----------------------------------------------------------------------------
+
+Full name:          Rakhi
+Gender:             Female
+Partner:            BALWINDER
+
+----------------------------------------------------------------------------
+
+Full name:          RAMRATAN
+Gender:             Male
+Mother:             GULKANDI
+Father:             MOOLCHAND
+
+----------------------------------------------------------------------------
+
+Full name:          RATAN
+Gender:             Male
+Father:             GABDU
+
+----------------------------------------------------------------------------
+
+Full name:          RATHIWAS
+Gender:             Male (deceased)
+Mother:             Mother Sikhriwaal
+Father:             Father Sikriwal
+
+----------------------------------------------------------------------------
+
+Full name:          SHERSINGH
+Gender:             Male
+Father:             FATHER LALCHAND
+
+----------------------------------------------------------------------------
+
+Full name:          SHIMANTRA
+Gender:             Female
+Mother:             GULKANDI
+Father:             MOOLCHAND
+
+----------------------------------------------------------------------------
+
+Full name:          SUMIT
+Gender:             Male
+Partner:            POOJA
+
+----------------------------------------------------------------------------
+
+Full name:          SUNIL
+Gender:             Female
+Mother:             RAM KARAN
+Father:             KAILASH
+
+----------------------------------------------------------------------------
+
+Full name:          SUNITA
+Gender:             Female
+Mother:             GULKANDI
+Father:             MOOLCHAND
+
+----------------------------------------------------------------------------
+
+Full name:          SUNITA
+Gender:             Female
+Biological mother:  LAJJA
+Biological father:  JAGDEESH
+
+----------------------------------------------------------------------------
+
+Full name:          UMRAO
+Gender:             Male
+Father:             FATHER UMRAO
+
+----------------------------------------------------------------------------
+
+Full name:          VIKAS "SUSU"
+Gender:             Male
+Mother:             BIRMA
+
+----------------------------------------------------------------------------
+
+Full name:          VIKRANT
+Gender:             Male
+Mother:             NARMADA
+Father:             CHIRANJEE LAL
+Partner:            Meera
+
+----------------------------------------------------------------------------
+
+Full name:          Sundar Bala
+Gender:             Female
+Husband:            KANHIYA LAL
+
+----------------------------------------------------------------------------
+
+Full name:          DADA BISU
+Gender:             Male (deceased)
+Father:             DADA PARDADA BISU
+
+----------------------------------------------------------------------------
+
+Full name:          DADA PARDADA BISU
+Gender:             Male
+Father:             AKERA
+
+----------------------------------------------------------------------------
+
+Full name:          MANGAT DADA
+Gender:             Male (deceased)
+Mother:             D0S2X
+
+----------------------------------------------------------------------------
+
+Full name:          DADA GHEESA
+Gender:             Male
+
+----------------------------------------------------------------------------
+
+Full name:          FATHER GHEESA
+Gender:             Male
+Father:             DADA GHEESA
+
+----------------------------------------------------------------------------
+
+Full name:          RAM KARAN
+Gender:             Male (deceased)
+Mother:             PHOOLVATI
+Father:             MAMCHAND
+
+----------------------------------------------------------------------------
+
+Full name:          FATHER LAKHU
+Gender:             Male
+Father:             DADA GHEESA
+
+----------------------------------------------------------------------------
+
+Full name:          CHIRANJEE LAL
+Gender:             Male
+Mother:             PHOOLVATI
+Father:             MAMCHAND
+Partner:            NARMADA
+
+----------------------------------------------------------------------------
+
+Full name:          KANHIYA LAL
+Gender:             Male
+Mother:             PHOOLVATI
+Father:             MAMCHAND
+Wife:               Sundar Bala
+Birth date:         6 Feb 1961
+
+----------------------------------------------------------------------------
+
+Full name:          FATHER LALCHAND
+Gender:             Male
+Father:             DADA GHEESA
+
+----------------------------------------------------------------------------
+
+Full name:          ASHA PAPA
+Gender:             Male
+Father:             MAMRAJ
+
+----------------------------------------------------------------------------
+
+Full name:          MANGAT PAPA
+Gender:             Male (deceased)
+Father:             MANGAT DADA
+
+----------------------------------------------------------------------------
+
+Full name:          HARCHAND PUR
+Gender:             Male (deceased)
+Mother:             Mother Sikhriwaal
+Father:             Father Sikriwal
+
+----------------------------------------------------------------------------
+
+Full name:          RAM PYARI
+Gender:             Female (deceased)
+Mother:             CHITRU
+Father:             ANBHA
+
+----------------------------------------------------------------------------
+
+Full name:          Mother Sikhriwaal
+Gender:             Female
+Partner:            Father Sikriwal
+
+----------------------------------------------------------------------------
+
+Full name:          Father Sikriwal
+Gender:             Male
+Partner:            Mother Sikhriwaal
+
+----------------------------------------------------------------------------
+
+Full name:          FATEH SINGH
+Gender:             Male
+Father:             FATHER UMRAO
+
+----------------------------------------------------------------------------
+
+Full name:          AMIT "Pumma" TANWAR
+Gender:             Male
+Mother:             Sundar Bala
+Father:             KANHIYA LAL
+Birth date:         6 Sep 1991
+
+----------------------------------------------------------------------------
+
+Full name:          LALIT "TONY" TANWAR
+Gender:             Male
+Mother:             Sundar Bala
+Father:             KANHIYA LAL
+Partner:            Parul
+Birth date:         15 Nov 1986
+
+----------------------------------------------------------------------------
+
+Full name:          DADA UMRAO
+Gender:             Male
+
+----------------------------------------------------------------------------
+
+Full name:          FATHER UMRAO
+Gender:             Male
+Father:             DADA UMRAO
+
+----------------------------------------------------------------------------
+
