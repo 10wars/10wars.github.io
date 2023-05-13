@@ -37,6 +37,7 @@ $.ajax({
       }
 }).done(function(resp){
 	let familyData = csvJSON(resp);
+	console.log("familyData",familyData);
      	var family = new FamilyTree(document.getElementById("familytree"), {
             nodeBinding: {
                 field_0: "name"
