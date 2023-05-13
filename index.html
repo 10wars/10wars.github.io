@@ -36,16 +36,19 @@ $.ajax({
             // Here is my response. Now, I want it in a single file.
       }
 }).done(function(resp){
-	console.log("RESP",csvJSON(resp));
+	let familyData = csvJSON(resp);
      	var family = new FamilyTree(document.getElementById("familytree"), {
             nodeBinding: {
                 field_0: "name"
             },
-            nodes: [
-                { id: 1, pids: [2], name: "Amber McKenzie" },
-                { id: 2, pids: [1], name: "Ava Field" },
-                { id: 3, mid: 1, fid: 2, name: "Peter Stevens" }  
-            ]
+            nodes: familyData.map(function(row){
+	    	id : row.ID,
+		name : row.name,
+		gender : row.Gender	
+		pids : [row['Partner ID']],
+		mid : row['Mother ID'],
+		fid : row['Father ID']	
+	    })
         });
 });
 
