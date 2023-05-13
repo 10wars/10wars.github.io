@@ -42,12 +42,14 @@ $.ajax({
                 field_0: "name"
             },
             nodes: familyData.map(function(row){
-	    	id : row.ID,
-		name : row.name,
-		gender : (row.Gender || '').toLowerCase(),	
-		pids : [row['Partner ID']],
-		mid : row['Mother ID'],
-		fid : row['Father ID']	
+	    	return {
+			id : row.ID,
+			name : row.name,
+			gender : (row.Gender || '').toLowerCase(),	
+			pids : [row['Partner ID']],
+			mid : row['Mother ID'],
+			fid : row['Father ID']	
+		}
 	    })
         });
 });
