@@ -45,7 +45,7 @@ $.ajax({
             nodes: familyData.map(function(row){
 	    	return {
 			id : row.ID,
-			name : (row['Full name'] || ) + (row['Nickname'] ? ` (${row['Nickname']})` : ''),
+			name : (row['Full name'] || row['ID']) + (row['Nickname'] ? ` (${row['Nickname']})` : ''),
 			gender : (row.Gender || '').toLowerCase(),	
 			pids : [row['Partner ID']],
 			mid : row['Mother ID'],
